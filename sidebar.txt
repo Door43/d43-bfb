@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfb:home|Door43 (bfb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfb|d43-bfb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfb/archive/master.zip|d43-bfb.zip]]
+
+**Recent Changes**
+{{changes>ns = bfb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfb|Ethnologue data]]
+
